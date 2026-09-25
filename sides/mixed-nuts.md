@@ -3,9 +3,10 @@
 ## Ingredients
 
 - Almonds
-- Cashew
-- Walnut
-- Brazil nut
+- Cashews
+- Walnuts
+- Brazil nuts
+- Pecan nuts
 
 
 ## Instructions
